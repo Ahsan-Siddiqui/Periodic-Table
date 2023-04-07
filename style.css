@@ -1,0 +1,149 @@
+body
+{
+    background-color: #03685f;
+}
+* {
+   
+    margin: auto;
+    /* padding: auto; */
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+td {
+    width: 40px;
+    border: 1px solid black;
+    text-align: center;
+}
+.otherText{color: white}
+.noBorder {
+    border: none;
+}
+
+.headingOne {
+    text-align: center;
+    padding: 5px;
+    font-size: 5vw;
+    font-style: italic;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+tr    
+{
+    height: 40px;
+    font-size:12.5px;
+}
+.define
+{
+
+    /* background-color: white; */
+    width:820px ;
+    margin-bottom:20px
+}
+.define tbody
+{
+    margin: 20px;
+}
+.define tr
+{
+    width: 200px;
+    height:auto;
+}
+.define td
+{
+    width: 5px;
+}
+.define_1
+{
+    background-color: #dda0dd;
+}
+.define_2
+{
+    background-color: #90c7ff;
+}
+.define_3
+{
+    background-color: #fff28e;
+}
+.define_4
+{
+    background-color: #cdeb8b;
+}
+.define_5
+{
+    background-color: #c79810;
+}
+.define_6
+{
+    background-color: #ebdca9;
+}
+.define_7
+{
+    background-color: #fff;
+}
+.define_8
+{
+    background-color: #fceff0;
+}
+.define_9
+{
+    background-color: #fceff0;
+}
+.define_text
+{
+    border:none;
+    width: 100px;
+    text-align: left;
+    padding: 5px;
+    color: rgb(252, 248, 248);
+}
+._color_1 {
+    background-color: #ff9966;
+}
+
+.color_2 {
+    background-color: #dda0dd;
+}
+
+.color_3 {
+    background-color: #90c7ff;
+}
+
+.color_4 {
+    background-color: #fceff0;
+}
+
+.color_5 {
+    background-color: #fff28e;
+}
+
+.color_6 {
+    background-color: #c79810;
+}
+
+.color_7 {
+    background-color: #cdeb8b;
+}
+
+.color_8 {
+    background-color: #ebdca9;
+}
+
+.color_9 {
+    background-color: #e6e6fa;
+}
+.color_10 {
+    background-color: #fff;
+}
+
+.text_color_green {
+    color: green;
+}
+
+.text_color_blue {
+    color: blue;
+}
+
+.text_color_red {
+    color: red;
+}
